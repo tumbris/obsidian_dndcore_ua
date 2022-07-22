@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "74e961f6d2da2104",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c358b419773a9cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Стани/Непритомність.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5dd2ce988d3f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "678d35ccc390d9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375ae2fcaccafc07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36243d802dc1e3f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ca382a42e948f7a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c159f3fd41e6a5e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f7efdc7d59a6c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57f09eaa7e2b6aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Стани/Непритомність.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92ecd05583158e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Стани/Непритомність.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "347ed6b46482b159",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb61545f685bb7a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Стани/Непритомність.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c358b419773a9cd",
+  "lastOpenFiles": [
+    "Стани/Недієздатність.md",
+    "Стани/Параліч.md",
+    "Стани/Непритомність.md",
+    "Стани/Скам'яніння.md",
+    "Стани/Приголомшення.md",
+    "Стани/Невидимість.md",
+    "Стани/Зачарованість.md",
+    "Стани/Переляк.md",
+    "Стани/Сліпота.md",
+    "Стани/Глухота.md"
+  ]
+}
