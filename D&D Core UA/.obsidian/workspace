@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D Core UA/Навички/Уважність.md",
+            "file": "5e Ядро/Навички/Уважність.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D Core UA/Навички/Уважність.md",
+                "file": "5e Ядро/Навички/Уважність.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D Core UA/Навички/Уважність.md",
+                "file": "5e Ядро/Навички/Уважність.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D Core UA/Навички/Уважність.md"
+                "file": "5e Ядро/Навички/Уважність.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "375ae2fcaccafc07",
   "lastOpenFiles": [
-    "D&D Core UA/Бойові дії/Пошук.md",
-    "D&D Core UA/Навички/Уважність.md",
-    "D&D Core UA/Навички/Скритність.md",
-    "D&D Core UA/Навички/Дослідження.md",
-    "D&D Core UA/Бойові дії/Використання об'єкту.md",
-    "D&D Core UA/Бойові дії/Підготовка.md",
-    "D&D Core UA/Бойові дії/Накладання закляття.md",
-    "D&D Core UA/Стани/Захват.md",
-    "D&D Core UA/Бойові дії/Ховання.md",
-    "D&D Core UA/Бойові дії/Порив.md"
+    "5e Ядро/Бойові дії/Пошук.md",
+    "5e Ядро/Навички/Уважність.md",
+    "5e Ядро/Навички/Скритність.md",
+    "5e Ядро/Навички/Дослідження.md",
+    "5e Ядро/Бойові дії/Використання об'єкту.md",
+    "5e Ядро/Бойові дії/Підготовка.md",
+    "5e Ядро/Бойові дії/Накладання закляття.md",
+    "5e Ядро/Стани/Захват.md",
+    "5e Ядро/Бойові дії/Ховання.md",
+    "5e Ядро/Бойові дії/Порив.md"
   ]
 }
