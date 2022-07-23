@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Бойові дії/Використання об'єкту.md",
+            "file": "D&D Core UA/Навички/Уважність.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бойові дії/Використання об'єкту.md",
+                "file": "D&D Core UA/Навички/Уважність.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бойові дії/Використання об'єкту.md",
+                "file": "D&D Core UA/Навички/Уважність.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бойові дії/Використання об'єкту.md"
+                "file": "D&D Core UA/Навички/Уважність.md"
               }
             }
           }
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c358b419773a9cd",
+  "active": "375ae2fcaccafc07",
   "lastOpenFiles": [
-    "Навички/Дослідження.md",
-    "Навички/Уважність.md",
-    "Навички/Скритність.md",
-    "Бойові дії/Пошук.md",
-    "Бойові дії/Підготовка.md",
-    "Бойові дії/Накладання закляття.md",
-    "Стани/Захват.md",
-    "Бойові дії/Ховання.md",
-    "Бойові дії/Порив.md",
-    "Бойові дії/Захисна стійка.md"
+    "D&D Core UA/Бойові дії/Пошук.md",
+    "D&D Core UA/Навички/Уважність.md",
+    "D&D Core UA/Навички/Скритність.md",
+    "D&D Core UA/Навички/Дослідження.md",
+    "D&D Core UA/Бойові дії/Використання об'єкту.md",
+    "D&D Core UA/Бойові дії/Підготовка.md",
+    "D&D Core UA/Бойові дії/Накладання закляття.md",
+    "D&D Core UA/Стани/Захват.md",
+    "D&D Core UA/Бойові дії/Ховання.md",
+    "D&D Core UA/Бойові дії/Порив.md"
   ]
 }
